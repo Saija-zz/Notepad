@@ -26,6 +26,7 @@ import javax.swing.UnsupportedLookAndFeelException;
  *
  * @author Ivan Salas Corrales 
  * <http://programandoointentandolo.com/>
+ * @author Julian Borrero
  */
 public class BlocNotas extends Observable {
 
